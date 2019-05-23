@@ -39,47 +39,5 @@
       "title": "qui ullam ratione quibusdam voluptatem quia omnis",
       "completed": false
     }
-  ],
-  content:[
-    {
-      id: 1,  
-      title: "เที่ยวเกาะหลีแป๊ะ",  
-      shortDetail:  
-        "This card has supporting text below as a natural lead-in to additional content.",  
-      lastUpdate: "3 mins",  
-      imagesName: "icon.png"  
-    },  
-    {  
-      id: 2,  
-      title: "เที่ยวเชียงใหม่",  
-      shortDetail:  
-        "This card has supporting text below as a natural lead-in to additional content.",  
-      lastUpdate: "3 mins",  
-      imagesName: "icon.png"  
-    },  
-    {  
-      id: 3,  
-      title: "เที่ยวจตุจักร",  
-      shortDetail:  
-        "This card has supporting text below as a natural lead-in to additional content.",  
-      lastUpdate: "3 mins",  
-      imagesName: "icon.png"  
-    },  
-    {  
-      id: 4,  
-      title: "เที่ยวสวนรถไฟ",  
-      shortDetail:  
-        "This card has supporting text below as a natural lead-in to additional content.",  
-      lastUpdate: "3 mins",  
-      imagesName: "icon.png"  
-    },  
-    {  
-      id: 5,  
-      title: "เที่ยวหัวหิน",  
-      shortDetail:  
-        "This card has supporting text below as a natural lead-in to additional content.",  
-      lastUpdate: "3 mins",  
-      imagesName: "icon.png"  
-    } 
   ]
 }
